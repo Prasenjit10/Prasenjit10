@@ -3,7 +3,7 @@
 🚀 I am a **Computer Science and Engineering (AIML)** student with hands-on experience in **full-stack web development** and growing exposure to **machine learning projects**.
 
 ## 👨‍💻 About Me
-- 🔭 Working with **React, Node.js, Laravel, and MySQL**
+- 🔭 Working with **React, Node.js, Flask, and MySQL**
 - ☁️ Have basic knowledge of **AWS & DevOps tools**
 - 🤖 Actively working on **Machine Learning projects**
 - 💡 Passionate about creating **user-centric and efficient applications**
