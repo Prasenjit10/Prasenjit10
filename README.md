@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Laravel  
+- **Backend:** Node.js, Flask 
 - **Database:** MySQL  
 - **Cloud & DevOps:** AWS (Basics), CI/CD fundamentals  
 - **ML:** Python, ML fundamentals  
