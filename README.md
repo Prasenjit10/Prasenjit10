@@ -4,7 +4,6 @@
 
 ## 👨‍💻 About Me
 - 🔭 Working with **React, Node.js, Laravel, and MySQL**
-- 🧩 Experienced in building **scalable dashboards** and **role-based systems**
 - ☁️ Have basic knowledge of **AWS & DevOps tools**
 - 🤖 Actively working on **Machine Learning projects**
 - 💡 Passionate about creating **user-centric and efficient applications**
