@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm a B.Tech CSE Student
 
-<!--
-**Prasenjit10/Prasenjit10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I am a **Computer Science and Engineering (CSE)** student with hands-on experience in **full-stack web development** and growing exposure to **machine learning projects**.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 Working with **React, Node.js, Laravel, and MySQL**
+- 🧩 Experienced in building **scalable dashboards** and **role-based systems**
+- ☁️ Have basic knowledge of **AWS & DevOps tools**
+- 🤖 Actively working on **Machine Learning projects**
+- 💡 Passionate about creating **user-centric and efficient applications**
+- 🎯 Aspiring **Software Engineer** specializing in **modern web technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Laravel  
+- **Database:** MySQL  
+- **Cloud & DevOps:** AWS (Basics), CI/CD fundamentals  
+- **ML:** Python, ML fundamentals  
+- **Tools:** Git, GitHub, REST APIs  
+
+## 🌱 Currently Learning
+- Machine Learning & AI concepts  
+- AWS DevOps best practices  
+- System design fundamentals  
+- Data Structures & Algorithms  
+
+## 📫 Let's Connect
+Feel free to explore my repositories and connect with me!
+
+⭐ *Always learning, building, and improving every day.*
